@@ -1,1 +1,2 @@
 *.pbxproj -text
+*.java linguist-detectable=false
